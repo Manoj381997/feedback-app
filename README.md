@@ -18,7 +18,7 @@ Runs in the port 5000.
 
 ### `concurrently`
 
-Runs multiple commands concurrently.
-This project runs react server & json-mock-server concurrently by making use of this package.
-`npm run dev`, is used for this case. Refer: [concurrently](https://www.npmjs.com/package/concurrently)
+Runs multiple commands concurrently.\
+This project runs react server & json-mock-server concurrently by making use of this package.\
+`npm run dev`, is used for this case. Refer: [concurrently](https://www.npmjs.com/package/concurrently).\
 These changes are part of different branch -> `json-server` [json-server](https://github.com/Manoj381997/feedback-app/tree/json-server)
